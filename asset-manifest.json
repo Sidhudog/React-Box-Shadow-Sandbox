@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Box-Shadow-Sandbox/static/css/main.de951ce6.css",
+    "main.js": "/React-Box-Shadow-Sandbox/static/js/main.be88fd27.js",
+    "index.html": "/React-Box-Shadow-Sandbox/index.html",
+    "main.de951ce6.css.map": "/React-Box-Shadow-Sandbox/static/css/main.de951ce6.css.map",
+    "main.be88fd27.js.map": "/React-Box-Shadow-Sandbox/static/js/main.be88fd27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de951ce6.css",
+    "static/js/main.be88fd27.js"
+  ]
+}
